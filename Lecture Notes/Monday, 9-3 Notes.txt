@@ -1,0 +1,53 @@
+Monday, 9/3 Notes:
+
+1) Hand out materials
+
+2) Overview of course:
+	- Will learn basic terminology
+		- Entity Relation Schema
+		- design and create relational databases
+		- write SQL code to query the database
+		- normalization and schema refinement
+		- basics of database security
+	-Prerequisites:
+		- programming language
+	- Book:
+		- Fundamentals of Database Systems, Elmasri & Navathe, 6e
+	- Course Reqs:
+		- 3 assignments, which will include SQL
+		- 3 quizzes
+		- course project, in which you will:
+			- design
+			- create
+			- implement a database and,
+			- write queries to it
+		- final
+
+		- no midterm
+
+		- quizzes and final are open book, open notes
+
+		- quizzes will be ~45 mins in length
+
+	- Grading:
+		- HWS 25%
+		- PRJ 15%
+		- QZS 25%
+		- FNL 35%
+	- Extra Credit:
+		- no partial credit
+		- if on borderline, Extra Credit will tip you higher
+		- largely, though, not a lot of impact
+	- To get an A+
+		- do all the work, + 3 extra credit problems
+	- Late policy:
+		if =< week late:
+			-10%
+		elsif > week late && =< 2 weeks late:
+			-50%
+		else:
+			no credit
+	- Plagiarism:
+		- don't plagiarize!
+
+	
